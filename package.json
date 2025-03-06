@@ -1,1 +1,11 @@
-
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "dm-checker.js",
+  "dependencies": {
+    "discord.js": "^14.0.3"
+  },
+  "scripts": {
+    "start": "node dm-checker.js"
+  }
+}
